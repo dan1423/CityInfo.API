@@ -12,3 +12,4 @@ C:\Users\handy\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityIn
 C:\Users\handy\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorTargetAssemblyInfo.cache
 C:\Users\handy\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.dll
 C:\Users\handy\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.pdb
+C:\Users\handy\source\repos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\nlog.config
